@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "storage": {
+      "dynamocontactformtable": [
+        "create",
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

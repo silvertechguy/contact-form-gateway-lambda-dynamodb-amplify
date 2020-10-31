@@ -1,0 +1,35 @@
+{
+    "paths": [
+        {
+            "name": "/contact",
+            "lambdaFunction": "contactformamplifyb06ca340",
+            "privacy": {
+                "open": true
+            },
+            "policyResourceName": "/contact"
+        }
+    ],
+    "resourceName": "apicontactform",
+    "apiName": "apicontactform",
+    "functionArns": [
+        {
+            "lambdaFunction": "contactformamplifyb06ca340"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-contactformamplify-dev-143418-authRole",
+        "unAuthRoleName": "amplify-contactformamplify-dev-143418-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "contactformamplifyb06ca340",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

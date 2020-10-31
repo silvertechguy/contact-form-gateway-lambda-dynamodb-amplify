@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-contactformamplify-dev-143418-authRole",
+      "UnauthRoleArn": "arn:aws:iam::333980546223:role/amplify-contactformamplify-dev-143418-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::333980546223:role/amplify-contactformamplify-dev-143418-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-contactformamplify-dev-143418-deployment",
+      "UnauthRoleName": "amplify-contactformamplify-dev-143418-unauthRole",
+      "StackName": "amplify-contactformamplify-dev-143418",
+      "StackId": "arn:aws:cloudformation:us-east-1:333980546223:stack/amplify-contactformamplify-dev-143418/67618520-1b75-11eb-b2fa-0e5865a953f1",
+      "AmplifyAppId": "d2q5rjprbcck24"
+    }
+  }
+}
